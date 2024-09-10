@@ -1,0 +1,18 @@
+.bg-pink {
+    background-color: #ff69b4 !important; /* Cor rosa */
+  }
+  
+  .btn-pink {
+    background-color: #ff69b4 !important;
+    border-color: #ff69b4 !important;
+    color: white !important;
+  }
+  
+  .alert-pink {
+    background-color: #ff69b4 !important;
+    color: white !important;
+  }
+  
+  .text-pink {
+    color: #ff69b4 !important;
+  }
